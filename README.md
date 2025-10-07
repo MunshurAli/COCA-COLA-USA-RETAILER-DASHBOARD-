@@ -47,6 +47,10 @@ Dynamic KPIs showing:
 📜 Author
 
 Created by:[Md Munshur Ali]
+
 Purpose: Practice data visualization & retail performance analysis using Excel dashboards.
+
+<img width="1443" height="1002" alt="image" src="https://github.com/user-attachments/assets/6a8e50bd-f2a3-4240-ab1f-de8a8f1ad3d8" />
+
 
 -
